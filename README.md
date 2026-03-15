@@ -81,7 +81,7 @@ Agrithm delivers four interconnected capabilities:
 │                                                     │
 │  1. Price Intelligence  →  XGBoost forecasting      │
 │  2. Voice Assistant     →  STT + LLM + TTS          │
-│  3. Multilingual NLP    →  IndicTrans2 translation  │
+│  3. Multilingual NLP    →  Google translation  │
 │  4. WhatsApp Interface  →  Twilio API delivery      │
 └─────────────────────────────────────────────────────┘
 ```
@@ -101,7 +101,7 @@ Farmers simply **send a voice message in their language** to a WhatsApp number a
 ### 🎙️ Multilingual Voice Assistant
 - **Speech-to-Text**: Faster-Whisper (large-v2) for accurate Indian-accented speech
 - **Language Model**: QLoRA fine-tuned TinyLlama / Phi-3-mini on agricultural domain data
-- **Translation**: IndicTrans2 (AI4Bharat) for 5 Indian languages
+- **Translation**: Google Translate for 5 Indian languages
 - **Text-to-Speech**: gTTS for natural voice responses
 
 ### 📱 Zero-App Accessibility
@@ -136,13 +136,13 @@ Farmers simply **send a voice message in their language** to a WhatsApp number a
           │  Faster-Whisper   │  │  XGBoost Forecaster  │
           │       STT         │  │  Multi-output Reg.   │
           │        ↓          │  │  District-level      │
-          │  IndicTrans2      │  │  Crop Price Pred.    │
+          │       Google      │  │  Crop Price Pred.    │
           │  (→ English)      │  └──────────────────────┘
           │        ↓          │
           │  Fine-tuned LLM   │  ← TinyLlama / Phi-3-mini
           │  (QLoRA AgriBot)  │      (QLoRA, 4-bit)
           │        ↓          │
-          │  IndicTrans2      │
+          │       Google      │
           │  (→ Native Lang)  │
           │        ↓          │
           │  gTTS Voice Out   │
@@ -162,7 +162,7 @@ Farmers simply **send a voice message in their language** to a WhatsApp number a
 |---|---|
 | **AI / ML Core** | XGBoost, scikit-learn, TinyLlama, Phi-3-mini, QLoRA (4-bit) |
 | **Speech Processing** | Faster-Whisper (large-v2), gTTS, Google Speech Recognition |
-| **Translation** | IndicTrans2 (AI4Bharat), 5-language multilingual pipeline |
+| **Translation** | Google translation, 5-language multilingual pipeline |
 | **Backend** | FastAPI, Node.js, REST APIs |
 | **Bot Interfaces** | Twilio (WhatsApp), aiogram (Telegram), python-telegram-bot |
 | **ML Training** | Google Colab, Kaggle (T4 GPU), PEFT, bitsandbytes |
@@ -284,7 +284,7 @@ cp .env.example .env
 
 ```bash
 # Pull base LLM via Ollama
-ollama pull llama3.2
+ollama pull dhenu2
 
 # Or use our fine-tuned model from HuggingFace
 python scripts/download_models.py
