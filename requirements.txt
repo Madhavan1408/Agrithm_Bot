@@ -1,0 +1,55 @@
+# ── Core ML ──────────────────────────────────────────────────────────────────
+xgboost==2.0.3
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# ── LLM / Fine-tuning ─────────────────────────────────────────────────────────
+torch==2.3.0
+transformers==4.41.2
+peft==0.11.1
+bitsandbytes==0.43.1
+accelerate==0.30.1
+datasets==2.19.1
+trl==0.8.6
+sentencepiece==0.2.0
+protobuf==4.25.3
+
+# ── Speech ────────────────────────────────────────────────────────────────────
+faster-whisper==1.0.1
+gtts==2.5.1
+pydub==0.25.1
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+
+# ── Translation ───────────────────────────────────────────────────────────────
+indic-transliteration==2.3.47
+# IndicTrans2 installed separately: pip install git+https://github.com/AI4Bharat/IndicTrans2
+
+# ── Backend ───────────────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+httpx==0.27.0
+aiofiles==23.2.1
+
+# ── Bot Interfaces ────────────────────────────────────────────────────────────
+twilio==9.1.0
+aiogram==3.7.0
+python-telegram-bot==21.3
+requests==2.32.3
+
+# ── Ollama ────────────────────────────────────────────────────────────────────
+ollama==0.2.1
+
+# ── HuggingFace ───────────────────────────────────────────────────────────────
+huggingface-hub==0.23.2
+gradio==4.36.1
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+pydantic==2.7.1
+loguru==0.7.2
+tenacity==8.3.0
+tqdm==4.66.4
