@@ -1,0 +1,14 @@
+{
+  "8016184612": [
+    {
+      "id": "b716bb",
+      "label": "An Pm.",
+      "time": "18:00",
+      "days": [
+        "daily"
+      ],
+      "timezone": "Asia/Kolkata",
+      "active": true
+    }
+  ]
+}
