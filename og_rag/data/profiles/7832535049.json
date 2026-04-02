@@ -1,0 +1,13 @@
+{
+  "name": "Yerra",
+  "language": "Telugu",
+  "crop": "",
+  "district": "Tirupati (Urban)",
+  "village": "Tirupati",
+  "latitude": 13.652049,
+  "longitude": 79.430082,
+  "timezone": "Asia/Kolkata",
+  "digest_time": "07:00",
+  "onboarded": false,
+  "last_digest_date": null
+}

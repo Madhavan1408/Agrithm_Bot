@@ -1,0 +1,44 @@
+{
+  "messages": [
+    {
+      "id": 1775131065109,
+      "from": 6855043899,
+      "sender_name": "Madhavan",
+      "type": "text",
+      "content": "నామకరం మమ్మీ",
+      "ts": "2026-04-02 11:57 UTC",
+      "read": true
+    },
+    {
+      "id": 1775131361164,
+      "from": 6855043899,
+      "sender_name": "Madhavan",
+      "type": "text",
+      "content": "hello",
+      "ts": "2026-04-02 12:02 UTC",
+      "read": false
+    },
+    {
+      "id": 1775131366381,
+      "from": 1251777235,
+      "sender_name": "Harish",
+      "type": "text",
+      "content": "Hi",
+      "ts": "2026-04-02 12:02 UTC",
+      "read": false
+    },
+    {
+      "id": 1775131376303,
+      "from": 1251777235,
+      "sender_name": "Harish",
+      "type": "voice",
+      "content": "AwACAgUAAxkBAAIIt2nOWvHSJvj88yDcnDH15Vukj7iEAAJVHwACkBpxVidXBszUuw2-OgQ",
+      "ts": "2026-04-02 12:02 UTC",
+      "read": false
+    }
+  ],
+  "participants": [
+    1251777235,
+    6855043899
+  ]
+}

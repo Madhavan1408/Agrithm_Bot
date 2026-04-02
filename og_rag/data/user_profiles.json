@@ -1,0 +1,80 @@
+{
+  "8016184612": {
+    "name": "Pawan",
+    "language": "English",
+    "crop": "mango",
+    "district": "Tirupati (Urban)",
+    "village": "Yes",
+    "latitude": 13.65202,
+    "longitude": 79.429734,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": true,
+    "last_digest_date": null
+  },
+  "7832535049": {
+    "name": "Yerra",
+    "language": "Telugu",
+    "crop": "",
+    "district": "Tirupati (Urban)",
+    "village": "Tirupati",
+    "latitude": 13.652049,
+    "longitude": 79.430082,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": false,
+    "last_digest_date": null
+  },
+  "6855043899": {
+    "name": "Madhavan",
+    "language": "Telugu",
+    "crop": "paddy",
+    "district": "Kadapa",
+    "village": "kada",
+    "latitude": 14.460645,
+    "longitude": 78.811618,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": true,
+    "last_digest_date": null
+  },
+  "1251777235": {
+    "name": "Harish",
+    "language": "Telugu",
+    "crop": "paddy",
+    "district": "Kadapa",
+    "village": "Kadapa",
+    "latitude": 14.461014,
+    "longitude": 78.811453,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": true,
+    "last_digest_date": null
+  },
+  "7335164464": {
+    "name": "Vamsi",
+    "language": "English",
+    "crop": "vari",
+    "district": "Ongole",
+    "village": "Yes",
+    "latitude": 15.489527,
+    "longitude": 80.047384,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": true,
+    "last_digest_date": null
+  },
+  "6362970200": {
+    "name": "Prabha",
+    "language": "Telugu",
+    "crop": "bannana.",
+    "district": "Ongole",
+    "village": "Sathapeta",
+    "latitude": 15.49426,
+    "longitude": 80.052303,
+    "timezone": "Asia/Kolkata",
+    "digest_time": "07:00",
+    "onboarded": true,
+    "last_digest_date": null
+  }
+}
