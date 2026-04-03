@@ -1,0 +1,13 @@
+{
+  "6855043899": {
+    "crop_key": "rice",
+    "crop_name": "Rice",
+    "sow_date": "2026-04-02",
+    "harvest_date": "2026-07-31",
+    "total_days": 120,
+    "alarm_time": "07:00",
+    "timezone": "Asia/Kolkata",
+    "active": true,
+    "started_at": "2026-04-02T18:06:43.103284"
+  }
+}
