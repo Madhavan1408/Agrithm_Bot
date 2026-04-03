@@ -1,0 +1,106 @@
+{
+  "mango": [
+    {
+      "user_id": 8227437257,
+      "username": "",
+      "name": "Ramesh",
+      "crop": "mango",
+      "district": "Tirupati (Urban)",
+      "village": "Yes"
+    },
+    {
+      "user_id": 7832535049,
+      "username": "",
+      "name": "Yerra",
+      "crop": "mango",
+      "district": "Tirupati (Urban)",
+      "village": "Yes"
+    },
+    {
+      "user_id": 8016184612,
+      "username": "",
+      "name": "Pawan",
+      "crop": "mango",
+      "district": "Tirupati (Urban)",
+      "village": "Tirupati"
+    }
+  ],
+  "paddy": [
+    {
+      "user_id": 1251777235,
+      "username": "",
+      "name": "Harish",
+      "crop": "paddy",
+      "district": "Kadapa",
+      "village": "Kadapa"
+    },
+    {
+      "user_id": 6855043899,
+      "username": "maddymadhavan14",
+      "name": "మాధవన్",
+      "crop": "paddy",
+      "district": "Kadapa",
+      "village": "Kadapa"
+    }
+  ],
+  "vari": [
+    {
+      "user_id": 7335164464,
+      "username": "",
+      "name": "Vamsi",
+      "crop": "vari",
+      "district": "Ongole",
+      "village": "Yes"
+    }
+  ],
+  "theirs.": [
+    {
+      "user_id": 6362970200,
+      "username": "",
+      "name": "Prabhakar",
+      "crop": "theirs.",
+      "district": "Ongole",
+      "village": "Sathapeta"
+    }
+  ],
+  "bannana.": [
+    {
+      "user_id": 6362970200,
+      "username": "",
+      "name": "Prabha",
+      "crop": "bannana.",
+      "district": "Ongole",
+      "village": "Sathapeta"
+    }
+  ],
+  "badi": [
+    {
+      "user_id": 6855043899,
+      "username": "maddymadhavan14",
+      "name": "మాధవన్",
+      "crop": "badi",
+      "district": "Kadapa",
+      "village": "Kadapa"
+    }
+  ],
+  "rice": [
+    {
+      "user_id": 6855043899,
+      "username": "maddymadhavan14",
+      "name": "మాధవన్",
+      "crop": "rice",
+      "district": "Kadapa",
+      "village": "Kadapa"
+    }
+  ],
+  "preparation": [
+    {
+      "user_id": 6855043899,
+      "username": "maddymadhavan14",
+      "name": "మాధవన్",
+      "crop": "preparation",
+      "district": "Kadapa",
+      "village": "Kadapa"
+    }
+  ]
+}

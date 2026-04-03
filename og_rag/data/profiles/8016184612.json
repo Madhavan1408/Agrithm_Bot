@@ -1,0 +1,13 @@
+{
+  "name": "Pawan",
+  "language": "English",
+  "crop": "mango",
+  "district": "Tirupati (Urban)",
+  "village": "Tirupati",
+  "latitude": 13.652041,
+  "longitude": 79.429659,
+  "timezone": "Asia/Kolkata",
+  "digest_time": "07:00",
+  "onboarded": true,
+  "last_digest_date": null
+}
